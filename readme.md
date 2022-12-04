@@ -2,7 +2,7 @@ This repository contains documentation of structural hull design and analysis fo
 
 ![](https://i.imgur.com/WF46pcN.jpg)
 
-Click on [hull design.pdf](https://github.com/amanbagrecha/MyProjects/blob/master/Avyaan/hull%20design.pdf) to look at the detailed report.
+Click on [hull design.pdf](https://github.com/Siddharth1699/Projects/blob/main/hull%20design.pdf) to look at the detailed report.
 
 We tested various design for the shape of the hull to finally end up with the following shape.
 
